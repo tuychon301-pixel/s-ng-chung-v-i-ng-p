@@ -1,0 +1,5 @@
+{
+  "name": "Bản đồ khu vực tương tác",
+  "description": "Một ứng dụng web tương tác hiển thị bản đồ khu vực trừu tượng được tạo từ một hình ảnh. Người dùng có thể khám phá các khu vực khác nhau và nhận thông tin được tạo bởi AI về mỗi khu vực.",
+  "requestFramePermissions": []
+}
